@@ -1,0 +1,21 @@
+{
+	"firstList":[
+		{"id":1,"level":30,"mode":"简单","power":"3316","consump":"10","name":"铁甲蜥蜴","type":"1","images":["/static/icon/ore1.png"]},
+		{"id":2,"level":70,"mode":"普通","power":"5642","consump":"20","name":"凶鸟","type":"2","images":["/static/icon/ore1.png","/static/icon/ore2.png"]},
+		{"id":3,"level":146,"mode":"普通","power":"9048","consump":"30","name":"钢甲铁虫","type":"3","images":["/static/icon/ore1.png","/static/icon/ore2.png","/static/icon/ore3.png"]},
+		{"id":4,"level":146,"mode":"极难","power":"15682","consump":"40","name":"针刺•雷鸣","type":"4","images":["/static/icon/ore2.png","/static/icon/ore3.png","/static/icon/ore4.png"]}
+],
+  "secondlList": [
+		{"id":1,"level":30,"mode":"简单","power":"3316","consump":"10","name":"猛禽","type":"1","images":["/static/icon/cube2.png"]},
+		{"id":2,"level":70,"mode":"普通","power":"5642","consump":"20","name":"幻影","type":"2","images":["/static/icon/cube2.png","/static/icon/cube3.png"]},
+		{"id":3,"level":146,"mode":"普通","power":"9048","consump":"30","name":"轰天乌驹","type":"3","images":["/static/icon/cube2.png","/static/icon/cube3.png","/static/icon/cube4.png"]},
+		{"id":4,"level":146,"mode":"极难","power":"15682","consump":"40","name":"针刺•烈焰","type":"4","images":["/static/icon/cube3.png","/static/icon/cube4.png","/static/icon/superCube.png"]}
+					
+],
+	"thirdList":[
+		{"id":1,"level":30,"mode":"简单","power":"3316","consump":"10","name":"重装红色机","type":"1","images":["/static/icon/greendg1.png","/static/icon/greendg2.png","/static/icon/greendg3.png","/static/icon/greendg4.png"]}	,
+		{"id":2,"level":70,"mode":"普通","power":"5642","consump":"20","name":"亡灵•R","type":"2","images":["/static/icon/bluedg1.png","/static/icon/bluedg2.png","/static/icon/bluedg3.png","/static/icon/bluedg4.png"]},
+		{"id":3,"level":146,"mode":"普通","power":"9048","consump":"30","name":"亡灵•S","type":"3","images":["/static/icon/goddg1.png","/static/icon/goddg2.png","/static/icon/goddg3.png","/static/icon/goddg4.png"]},
+		{"id":4,"level":146,"mode":"极难","power":"15682","consump":"40","name":"针刺•紫电","type":"4","images":["/static/icon/collection1.png","/static/icon/collection2.png","/static/icon/collection3.png"]}
+]
+}
